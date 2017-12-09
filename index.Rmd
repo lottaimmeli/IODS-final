@@ -1,0 +1,15 @@
+---
+title: "IODS final exercise"
+author: "Lotta Immeli"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_depth: 2
+    fig_caption: true
+    fig_width: 6
+    fig_height: 4
+    code_folding: hide
+---
+
+This is gonna be the final exercise of this course!
