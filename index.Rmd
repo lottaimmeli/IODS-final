@@ -1,9 +1,11 @@
 ---
 title: "IODS final exercise"
 author: "Lotta Immeli"
+email: lotta.immeli@helsinki.fi
+date: 18.12.2017
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     toc: true
     toc_depth: 2
     fig_caption: true
@@ -12,4 +14,17 @@ output:
     code_folding: hide
 ---
 
-This is gonna be the final exercise of this course!
+Thank you for this course. Unfortunately I'm not able to pass this final exercise because I am very busy at the moment wrangling with my own research project and data. I have a deadline for an congress abstract 3.1.2018 and I have to get some results before that. Hopefully I still can pass the course and get some points though I have to skip the last exercise.
+
+This course really has helped me a lot with my ongoing project and during the last week I have made a huge progress with my own data. 
+My own project is about big data from two different resources and to be able to do the things with r instead of Spss or Excel is just great. This will definately help me a lot in the future as I have better tools to work with. The last week I've been working really hard with r (several hours per day), and also found the solutions for my problems. And the greatest thing is, that I have done it mainly by myself with r, though it might have taken quite a time. 
+I have passed the data wrangling part with my own data and today I started to draw the first plots with ggplot2.
+
+I've found courses in Datacamp very helpful. Today I was spending some time with the ggplot2 -course. For some reason the exclusive Datacamp material have been available for me for a couple of days. I don't know if Kimmo have something to do with this, or what it is about, but I don't mind.
+
+Thank you all!
+
+Lotta
+
+
+
